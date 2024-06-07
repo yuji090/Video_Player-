@@ -15,7 +15,10 @@ struct VideoPlayerView: UIViewControllerRepresentable {
     }
     
     func updateUIViewController(_ uiViewController: AVPlayerViewController, context: Context) {
+
         // No need to update the view controller
+        // hi 
+
     }
 }
 
